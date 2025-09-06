@@ -1,4 +1,5 @@
-# Contributor Covenant Code of Conduct
+- name: Setup Go environment
+  uses: actions/setup-go@v6.0.0# Contributor Covenant Code of Conduct
 
 ## Our Pledge
 
